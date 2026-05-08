@@ -26,12 +26,14 @@ Currently focused on learning:
 # 🧠 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Kali%20Linux?logo=Kali%20Linux&logoColor=Cyan)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+
+
+
 
 ---
 
@@ -71,11 +73,7 @@ Simple scripts focused on automation and learning.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicollasLeandro&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLeandro&layout=compact&theme=tokyonight"/>
-</p>
+![Snake animation](https://github.com/NicollasLeandro/NicollasLeandro/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -89,3 +87,4 @@ This profile and its repositories are intended for educational and ethical purpo
 
 - Discord: nicllll
 - GitHub: github.com/NicollasLeandro
+
