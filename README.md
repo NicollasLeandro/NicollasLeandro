@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Hi, I'm Nicollas Leandro
 
 Hello! I'm a cybersecurity student passionate about technology, digital security, and understanding how systems work.
 
