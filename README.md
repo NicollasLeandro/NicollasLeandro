@@ -31,6 +31,7 @@ Currently focused on learning:
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Kali%20Linux?logo=Kali%20Linux&logoColor=Cyan)
 
 ---
 
