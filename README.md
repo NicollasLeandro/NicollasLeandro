@@ -73,7 +73,7 @@ Simple scripts focused on automation and learning.
 
 # 📊 GitHub Stats
 
-![Snake animation](https://github.com/NicollasLeandro/NicollasLeandro/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
