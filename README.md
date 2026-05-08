@@ -71,9 +71,9 @@ Simple scripts focused on automation and learning.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicollasLeandro&show_icons=true&theme=tokyonight"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasLeandro&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -86,5 +86,5 @@ This profile and its repositories are intended for educational and ethical purpo
 
 # 📫 Contact
 
-- Discord: youruser
-- GitHub: github.com/YOURUSERNAME
+- Discord: nicllll
+- GitHub: github.com/NicollasLeandro
